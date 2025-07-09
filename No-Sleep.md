@@ -1,4 +1,4 @@
-Privacy Policy for No Sleep
+# Privacy Policy for No Sleep
 No data or personal information is collected by this app.
 
 Contact
